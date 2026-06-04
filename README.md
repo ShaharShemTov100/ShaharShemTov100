@@ -14,7 +14,7 @@ Computer Science graduate interested in starting my career in the tech industry.
 
 ## 🛠️ Technologies & Concepts
 
-**Languages:**  C++, C, JavaScript, Python,  Java, SQL (Basic)
+**Languages:**  C++, C, JavaScript, Python,  Java, SQL 
 
 **Technologies:** React, Node.js, Express, MongoDB
 
