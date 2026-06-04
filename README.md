@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Shahar Shem Tov
 
-<!--
-**ShaharShemTov100/ShaharShemTov100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate interested in starting my career in the tech industry. Through my academic studies and team projects, I gained experience in software development, problem-solving, and working as part of a team.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 B.Sc. in Computer Science – The Academic College of Tel Aviv-Yafo (2025)
+
+🎖️ Active Reservist Operations Officer in the C4I and Cyber Defense Corps
+
+🧠 Strong analytical thinking, attention to detail, and ability to learn quickly
+
+🌱 Motivated to gain hands-on experience, learn from experienced professionals, and continue developing my technical skills
+
+## 🛠️ Technologies & Concepts
+
+**Languages:** Java, C#, C, JavaScript, SQL (Basic)
+
+**Technologies:** React, Node.js, Express, MongoDB
+
+**Concepts:** Object-Oriented Programming (OOP), Client-Server Architecture, REST APIs, Multithreading
+
+## 💼 Academic Projects
+
+### ChatShield – Chrome Extension
+
+- Participated in the development of a Chrome extension for WhatsApp Web
+- Worked on analyzing sensitive content scenarios and system behavior
+- Collaborated as part of a development team throughout the project lifecycle
+
+### Predictive Application – Java Client-Server System
+
+- Worked with client-server architecture concepts
+- Gained experience in a multithreaded environment
+- Participated in system design, implementation, and testing
+
+## 💬 Languages
+
+🇮🇱 Hebrew – Native
+
+🇺🇸 English – Full Professional Proficiency
+
+## 📌 Career Objective
+
+Computer Science graduate at the beginning of my professional journey, looking for an opportunity to learn, grow, and gain practical experience in the tech industry.
