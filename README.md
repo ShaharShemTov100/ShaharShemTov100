@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Shahar Shem Tov
 
-Computer Science graduate interested in starting my career in the tech industry. Through my academic studies and team projects, I gained experience in software development, problem-solving, and working as part of a team.
+Computer Science graduate interested in starting my career in the tech industry. Through my academic studies and team projects, I gained experience in software development, problem solving, and working as part of a team.
 
 ## 🚀 About Me
 
-🎓 B.Sc. in Computer Science – The Academic College of Tel Aviv-Yafo (2025)
+🎓 B.Sc. in Computer Science - The Academic College of Tel Aviv-Yafo (2025)
 
 🎖️ Active Reservist Operations Officer in the C4I and Cyber Defense Corps
 
@@ -14,7 +14,7 @@ Computer Science graduate interested in starting my career in the tech industry.
 
 ## 🛠️ Technologies & Concepts
 
-**Languages:** Java, C#, C, JavaScript, SQL (Basic)
+**Languages:**  C++, C, JavaScript, Python,  Java, SQL (Basic)
 
 **Technologies:** React, Node.js, Express, MongoDB
 
