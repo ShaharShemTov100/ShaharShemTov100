@@ -38,7 +38,9 @@ Computer Science graduate interested in starting my career in the tech industry.
 
 🇮🇱 Hebrew – Native
 
-🇺🇸 English – Full Professional Proficiency
+🇺🇸 English – Fluent
+
+🇪🇸 Spanish – Intermediate
 
 ## 📌 Career Objective
 
